@@ -1,4 +1,8 @@
-# Hi, I'm Mahere Bahhaj 👋
+<p align="center">
+  <img src="./banner.png" alt="Mahere Bahhaj GitHub Banner" width="100%">
+</p>
+
+Hi, I'm Mahere Bahhaj 👋
 
 ### Second-Year TSDI Student | Aspiring Data Analyst
 
