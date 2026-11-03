@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Mahere Bahhaj GitHub Banner" width="100%">
+  <img src="./banner.png" alt="BAHHAJ.baneer" width="100%">
 </p>
 
 Hi, I'm Mahere Bahhaj 👋
