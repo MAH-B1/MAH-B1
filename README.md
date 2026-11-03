@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./banner.png" alt="mahere-bahhaj-github-banner-minimal.png" width="100%">
+  <img src="./mahere-bahhaj-github-banner-minimal.png" alt="Mahere Bahhaj GitHub Banner" width="100%">
 </p>
-
 Hi, I'm Mahere Bahhaj 👋
 
 ### Second-Year TSDI Student | Aspiring Data Analyst
