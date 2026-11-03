@@ -1,38 +1,50 @@
-Hi, I'm Mahere Bahhaj 👋
+# Hi, I'm Mahere Bahhaj 👋
 
-TSDI Student | Aspiring Data Analyst
+### Second-Year TSDI Student | Aspiring Data Analyst
 
-I'm a second-year TSDI student interested in Data Analysis and turning data into meaningful insights.
+I'm a second-year student in **Technician Specialized in Decision Support and Statistics (TSDI)**, interested in Data Analysis and transforming data into meaningful insights.
 
-I'm currently developing my skills in data analysis, databases, and programming.
+I'm currently building my technical skills step by step through learning and practical projects.
 
   🎯 About Me
 
 - 🎓 Second-year TSDI student.
-- 📊 Interested in Data Analysis.
-- 🐍 Learning Python and SQL.
-- 📈 Exploring Excel and Power BI.
-- 🤖 Curious about AI and AI Agents.
-- 🌱 Always learning and building new projects.
+- 📊 Interested in Data Analysis and Business Intelligence.
+- 🐍 Learning Python.
+- 🗄️ Exploring SQL and database management.
+- 🤖 Interested in Artificial Intelligence and AI Agents.
+- 🌱 Always learning and improving through practice.
 
   🛠️ Technologies & Tools
+  
+Current Skills
+- 🐍 **Python** — Basic knowledge
+- 🗄️ **SQL / MySQL** — Beginner
+- 🔧 **Git & GitHub** — Beginner
 
-- Programming: Python
-- Databases:SQL, MySQL
-- Data Analysis: Excel, Power BI
-- Tools:Git, GitHub, VS Code
+Currently Exploring
+- 📊 **Microsoft Excel** — Upcoming
+- 📈 **Power BI** — Upcoming
 
   📚 Currently Learning
 
-- Data Analysis
-- Advanced Excel
-- SQL and Database Management
-- Power BI
-- Python for Data Analysis
+- Data Analysis fundamentals
+- Python programming
+- SQL and database management
+- Git and GitHub
+- Excel and Power BI
+
+  🎯 Goals
+
+- Build practical Data Analysis projects.
+- Improve my SQL and Python skills.
+- Learn how to create meaningful dashboards.
+- Explore AI-powered data solutions.
 
   📫 Connect With Me
 
 - GitHub: [@MAH-B1](https://github.com/MAH-B1)
+
 
 
 Learning, building, and growing step by step.
